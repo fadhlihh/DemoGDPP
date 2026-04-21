@@ -297,10 +297,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 363026392}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 10ab9a1668fd2654f90e0c4104e3536d, type: 3}
+  m_Script: {fileID: 11500000, guid: a3a8d4c47fb65d741be0ac6721496f60, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Score
-  _inputManager: {fileID: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::ScoreCounter
 --- !u!1 &383806151
 GameObject:
   m_ObjectHideFlags: 0
