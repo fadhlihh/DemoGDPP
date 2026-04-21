@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47645ae925c2664439f31c34f4e4e7ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneLoader
-  _sceneName: Scene2
+  _sceneName: Scene1
 --- !u!1 &101682471
 GameObject:
   m_ObjectHideFlags: 0
